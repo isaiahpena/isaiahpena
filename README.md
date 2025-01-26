@@ -2,7 +2,7 @@
 - I am Isaiah Pena
 - I am an engineering major
 - I'm excited to start learning about computer science and coding 😀
-- In my free time I like to go to the gym and spend time with my family and friends
+- In my free time I like to go to the gym and spend time with my family and friends 👍
 
 <!--
 **isaiahpena/isaiahpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
